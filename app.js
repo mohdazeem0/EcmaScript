@@ -1,1 +1,1 @@
-console.log("Hey PickupBiz Team")
+console.log("Hey Team")
